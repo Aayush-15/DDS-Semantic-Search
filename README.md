@@ -1,4 +1,4 @@
-# ElasticSearch Product Search Engine
+# DDS-ElasticSearch - Product Search Engine
 
 This project demonstrates a **fashion product search engine** built with **ElasticSearch** and **Streamlit**. The application uses **vector similarity search** powered by **sentence-transformers** to provide efficient and relevant search results for products in Myntra's catalog.
 
