@@ -33,4 +33,5 @@ This project demonstrates a **fashion product search engine** built with **Elast
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 └── index_data.py          # Script to preprocess and upload data to ElasticSearch
+```
 
