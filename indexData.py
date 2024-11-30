@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 es = Elasticsearch(
     "https://localhost:9200",
-    basic_auth=("elastic","OOcrmca+WaJCZkPWN1i_"),
+    basic_auth=("elastic",""),
     verify_certs=False
 )
 print(es.ping())
